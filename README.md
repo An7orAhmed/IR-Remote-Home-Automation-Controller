@@ -24,7 +24,7 @@ This project enables remote control of home appliances (lights, fan) using an in
 
 ## Documentation  
 - [IR_home_source.pdf](IR_home_source.pdf): Main source code and logic breakdown.  
-- [Bill Of Materials IR Remote Home Automation.pdf](Bill Of Materials IR Remote Home Automation.pdf): Hardware components list.  
+- [[Bill Of Materials IR Remote Home Automation.pdf](https://github.com/An7orAhmed/IR-Remote-Home-Automation-Controller/blob/main/Bill%20Of%20Materials%20IR%20Remote%20Home%20Automation.pdf)]: Hardware components list.  
 
 ## Notes  
 - Schematics or diagrams referenced in documentation may require adjustments based on hardware revisions.  
